@@ -1,12 +1,17 @@
 streamlit
 pandas
 plotly
+nltk
 textblob
 transformers
 torch
 keybert
 sentence-transformers
 scikit-learn
+
+
+
+
 
 
 
