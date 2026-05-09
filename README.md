@@ -41,7 +41,7 @@ AI_Review_Analyzer/
 
 ---
 
-## ▶ Run Project
+## ▶ Run Project Locally
 
 ```bash
 pip install -r requirements.txt
@@ -62,12 +62,13 @@ inside the project folder.
 
 ---
 
-## 🌐 Deployment
+## 🌐 Deploy on Streamlit Cloud
 
-Deploy easily using:
-
-* GitHub
-* Streamlit Cloud
+1. Upload project to GitHub
+2. Open Streamlit Cloud
+3. Connect GitHub repository
+4. Select app.py
+5. Deploy
 
 ---
 
@@ -77,3 +78,11 @@ Built with ❤️ using NLP & Machine Learning
 
 ```
 ```
+
+
+
+
+
+
+
+
